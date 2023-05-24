@@ -1,0 +1,29 @@
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login-content>img {
+    height: 200px !important;
+    object-fit: contain;
+    margin: 2rem;
+}
+
+.login-content button {
+    padding: 1rem;
+    margin: 2rem 0rem;
+    background-color: #000;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    letter-spacing: 1.1px;
+    cursor: pointer;
+}

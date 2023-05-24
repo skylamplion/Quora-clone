@@ -1,1 +1,1 @@
-# Quora-clone
+# Quora
